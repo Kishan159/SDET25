@@ -6,6 +6,8 @@ public class SDET1 {
 		System.out.println("GitHub Repository");
 		System.out.println("GithubRepository edited ");
 		System.out.println("GithubRepository25");
+		System.out.println("GitRepository");
+	
 	}
 
 }
