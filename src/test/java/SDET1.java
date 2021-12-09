@@ -5,6 +5,7 @@ public class SDET1 {
 	public void DateTest() {
 		System.out.println("GitHub Repository");
 		System.out.println("GithubRepository edited ");
+		System.out.println("GithubRepository25");
 	}
 
 }
